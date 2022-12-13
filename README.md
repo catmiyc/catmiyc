@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @catmiyc
-- 🤓 I’m learning front-end
+- 🤓 I’m learning Front-End Development
 
 <!---
 catmiyc/catmiyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

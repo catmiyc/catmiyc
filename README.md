@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catmiyc)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catmiyc)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=catmiyc)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=catmiyc)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
 

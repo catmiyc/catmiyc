@@ -12,13 +12,14 @@ You can click the Preview link to take a look at your changes.
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=catmiyc)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
-<!-- From: 16 February 2023 - To: 23 February 2023 -->
-```text
-Last 30 days
-Total Time: 52 mins
 
-HTML         48 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜   92.59 %
-JavaScript   3 mins          🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.41 %
+```text
+From: 17 February 2023 - To: 24 February 2023
+
+Total Time: 1 hr 6 mins
+
+HTML   50 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜   75.30 %
+CSS    16 mins         🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.70 %
 ```
 
 <!--END_SECTION:waka-->

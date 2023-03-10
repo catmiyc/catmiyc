@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS:  "⬛🟩"
+          BLOCKS:  "🟦🟩"
           TIME_RANGE: week-start
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
@@ -23,7 +23,7 @@ jobs:
 #           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
 #           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
 #           COMMIT_MESSAGE: Update Wakapi stats
-#           BLOCKS: "⬜🟨🟩⬛"
+#           BLOCKS: "⬜🟨🟩⬛🟦"
 #           TIME_RANGE: last_30_days
 #           SHOW_TIME: true
 

@@ -10,13 +10,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 96.2 kB Used in GitHub's Storage 
  > 
-> 🏆 72 Contributions in the Year 2023
+> 🏆 68 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,18 +38,6 @@ Other                    0 secs              ░░░░░░░░░░░�
 VS Code                  27 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
 
-```text
-HTML                     5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
-
- Last Updated on 22/03/2023 08:39:12 UTC
+ Last Updated on 22/03/2023 08:43:22 UTC
 <!--END_SECTION:waka-->

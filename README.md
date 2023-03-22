@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 96.2 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2023
+> 🏆 70 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,19 +25,14 @@ You can click the Preview link to take a look at your changes.
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 JavaScript               22 hrs 14 mins      ████████████████████░░░░░   81.38 % 
 HTML                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 Python                   2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  27 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/03/2023 08:43:22 UTC
+ Last Updated on 22/03/2023 08:45:27 UTC
 <!--END_SECTION:waka-->

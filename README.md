@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2017%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,5 +22,5 @@ Text                     0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/03/2023 14:56:17 UTC
+ Last Updated on 30/03/2023 18:33:59 UTC
 <!--END_SECTION:waka-->

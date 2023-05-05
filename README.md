@@ -14,12 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-HTML                     2 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
-CSS                      1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   30.71 % 
-JavaScript               1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/05/2023 18:33:41 UTC
+ Last Updated on 05/05/2023 18:33:53 UTC
 <!--END_SECTION:waka-->

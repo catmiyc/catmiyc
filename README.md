@@ -14,11 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 💬 Programming Languages: 
-C                        1 min               █████████████████░░░░░░░░   67.24 % 
-C++                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/11/2023 18:35:44 UTC
+ Last Updated on 17/11/2023 18:35:49 UTC
 <!--END_SECTION:waka-->

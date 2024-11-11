@@ -8,6 +8,15 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2025%20mins-blue)
 
- Last Updated on 10/11/2024 18:38:49 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 11/11/2024 18:41:08 UTC
 <!--END_SECTION:waka-->
